@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 15e3d39d01a5946499fa8b6b5dc1b00f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - decalHitWall: {instanceID: 0}
+  - bloodEffect: {instanceID: 0}
+  - killFeedContainer: {instanceID: 0}
+  - killFeedTemplate: {fileID: 7048860055295243167, guid: 51edfa52ba02f8447921058b850f7284,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
